@@ -1,0 +1,14 @@
+/home/michael/Desktop/pop/rustProject/langDectector/lang/target/rls/debug/deps/whatlang-2388816a78cae4a1.rmeta: /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/lib.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/constants.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/detect.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/detector.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/info.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/lang.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/options.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/script.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/trigrams.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/utils.rs
+
+/home/michael/Desktop/pop/rustProject/langDectector/lang/target/rls/debug/deps/whatlang-2388816a78cae4a1.d: /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/lib.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/constants.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/detect.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/detector.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/info.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/lang.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/options.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/script.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/trigrams.rs /home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/utils.rs
+
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/lib.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/constants.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/detect.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/detector.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/info.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/lang.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/options.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/script.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/trigrams.rs:
+/home/michael/.cargo/registry/src/github.com-1ecc6299db9ec823/whatlang-0.7.3/src/utils.rs:
